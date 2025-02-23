@@ -119,7 +119,8 @@ O **AgendeJá** é um **sistema online** que permite que pacientes, médicos e c
 
 📌 **Diagrama UML representando os casos de uso e os atores envolvidos.**  
 
-#colocar aqui 
+ <img width="599" alt="Captura de Tela 2025-02-23 às 12 49 44" src="https://github.com/user-attachments/assets/39ec0e93-9daf-46b7-be3d-abe5582347b1" />
+
 
 ---
 
